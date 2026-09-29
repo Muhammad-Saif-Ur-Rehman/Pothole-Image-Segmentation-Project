@@ -7,6 +7,4 @@ Segementation on Images and Videos both.
 **Dataset Link:** 
 https://www.kaggle.com/datasets/farzadnekouei/pothole-image-segmentation-dataset
 
-**Tools:**
-* Streamlit
-* Fastapi
+
