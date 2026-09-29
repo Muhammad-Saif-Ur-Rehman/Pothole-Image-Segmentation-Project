@@ -1,3 +1,12 @@
-Hi! I hope you are doing good. This is my project that I have created on Kaggle and haven't downloaded the dataset, you can download the dataset from the following link:
+# Pothole Image Segmentation Using Yolo V8
+This project contains a streamlit frontend for testing, make sure to download dataset.
+
+**Features:**
+Segementation on Images and Videos both.
+
+**Dataset Link:** 
 https://www.kaggle.com/datasets/farzadnekouei/pothole-image-segmentation-dataset
 
+**Tools:**
+* Streamlit
+* Fastapi
